@@ -1,0 +1,1321 @@
+[
+  {
+    "plantName": "Acai",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Apple",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Apricot",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Avocado",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Banana",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Blackberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Barberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Blackcurrants",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Blood orange",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Blueberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Boysenberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Breadfruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Cactus pear (prickly pear)",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Cantaloupe",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Cherimoya",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Cherries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Clementine",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Coconut",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Cranberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Currants",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Dates",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Dragon fruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Durian",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Elderberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Figs",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Goji berries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Golden berries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Gooseberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Grapefruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Grapes",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Guava",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Honeydew",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Huckleberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Jackfruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Kiwi",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Kumquat",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Lemon",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Lime",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Lingonberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Lychee",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Mandarins",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Mangoes",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Melon",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Mulberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Nectarines",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Olives",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Oranges",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Papaya",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Passion fruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Pawpaw",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Peach",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Pear",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Persimmons",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Pineapple",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Plantains",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Plums",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Pomegranate",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Prune",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Quince",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Raisins",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Rambutan",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Raspberry",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Soursop",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Starfruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Strawberries",
+    "pointValue": 1,
+    "dailyDozenCategory": "Berries"
+  },
+  {
+    "plantName": "Tamarind",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Tangerines",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Tomato",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Ugli fruit",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Watermelon",
+    "pointValue": 1,
+    "dailyDozenCategory": "Fruits"
+  },
+  {
+    "plantName": "Artichoke",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Arugula",
+    "pointValue": 1,
+    "dailyDozenCategory": [
+      "Greens",
+      "Cruciferous"
+    ]
+  },
+  {
+    "plantName": "Asparagus",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Bamboo shoot",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Basil, fresh",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Beet",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Beet greens",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Bell peppers",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Bok choy",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Broccoli",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Brussels sprouts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Cabbage",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Carrots",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Cauliflower",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Celeriac",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Celery",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Chard",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Swiss chard",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Chayote",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Cilantro",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Collards",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Collard greens",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Corn",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Cucumbers",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Dulse",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Eggplant",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Endive",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Fennel bulbs",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Fiddleheads",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Garlic",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Green onion",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Hearts of palm",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Horseradish",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Jicama",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Kale",
+    "pointValue": 1,
+    "dailyDozenCategory": [
+      "Greens",
+      "Cruciferous"
+    ]
+  },
+  {
+    "plantName": "Kelp",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Kohlrabi",
+    "dailyDozenCategory": [
+      "Greens",
+      "Cruciferous"
+    ]
+  },
+  {
+    "plantName": "Leeks",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Lettuce",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Lotus root",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Microgreens",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Mesclun mix",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Mustard greens",
+    "pointValue": 1,
+    "dailyDozenCategory": [
+      "Greens",
+      "Cruciferous"
+    ]
+  },
+  {
+    "plantName": "Napa cabbage",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Nori",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Okra",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Onion",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Parsley, fresh",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Parsnips",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Potato",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Pumpkin",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Radicchio",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Radish",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Radishes",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Rutabaga",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Seaweed",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Shallot",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Sorrel",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Spinach",
+    "pointValue": 1,
+    "dailyDozenCategory": "Greens"
+  },
+  {
+    "plantName": "Sprouts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Squash",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Sunchoke (Jerusalem artichoke)",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Sweet potato",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Taro root",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Turnip",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Turnip greens",
+    "pointValue": 1,
+    "dailyDozenCategory": [
+      "Greens",
+      "Cruciferous"
+    ]
+  },
+  {
+    "plantName": "Wakame",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Water chestnuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Watercress",
+    "pointValue": 1,
+    "dailyDozenCategory": "Cruciferous"
+  },
+  {
+    "plantName": "Yam",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Zucchini",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Almond",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Baru Nuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Brazil nuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Cacao nibs",
+    "pointValue": 0.25,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Caraway seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Cashews",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Chestnuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Chia seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Flaxseeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Flaxseed"
+  },
+  {
+    "plantName": "Hazelnut",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Hemp seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Macadamia nuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Peanut",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Pecans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Pine nuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Pistachios",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Poppy seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Pumpkin seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Sacha Ichi nuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Sesame seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Sunflower seeds",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Tiger nuts",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Walnut",
+    "pointValue": 1,
+    "dailyDozenCategory": "Nuts"
+  },
+  {
+    "plantName": "Basil, dried",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Bay leaves",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Chives",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Dill",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Marjoram",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Mint",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Oregano",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Parsley, dried",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Rosemary",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Sage",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Tarragon",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Thyme",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Allspice",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Anise",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Black pepper",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Caraway",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Cardamom",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Cayenne Pepper ",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Chili powder",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Cinnamon",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Cloves",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Coriander",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Cumin",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Cumin seeds",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Curry powder",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Fenugreek",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Ginger",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Mustard seed",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Nutmeg",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Paprika",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Saffron",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Star anise",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Sumac",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Turmeric",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Vanilla",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Spices"
+  },
+  {
+    "plantName": "Amaranth",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Barley",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Buckwheat",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Farro",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Freekeh",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Kamut",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Millet",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Oat bran",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Quinoa",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Rice",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Rolled oats",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Rye",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Sorghum",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Spelt",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Teff",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Wheat",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Wild rice",
+    "pointValue": 1,
+    "dailyDozenCategory": "Grains"
+  },
+  {
+    "plantName": "Adzuki bean",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Black beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Black-eyed peas",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Cannellini beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Chickpeas",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Edamame",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Fava beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Green beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Kidney beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Lentils",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Lima beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Mung beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Navy beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Pinto beans",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Snap peas",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Snow peas",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Soybean",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Split peas",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Tofu",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Beech mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Button mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Chanterelle mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Chestnut mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Cremini mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Enoki mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Giant Puffball mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Hedgehog mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "King Oyster mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Lion’s Mane mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Lobster mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Maitake mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Matsutake mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Morel mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Oyster mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Porcini mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Portobello mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Russula mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Shiitake mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Shimeji mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Truffle mushroom",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Kimchi",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Miso",
+    "pointValue": 0.5,
+    "dailyDozenCategory": "Beans"
+  },
+  {
+    "plantName": "Pickles",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Saurkraut",
+    "pointValue": 1,
+    "dailyDozenCategory": "Vegetables"
+  },
+  {
+    "plantName": "Tempeh",
+    "pointValue": 1,
+    "dailyDozenCategory": "Beans"
+  }
+]
